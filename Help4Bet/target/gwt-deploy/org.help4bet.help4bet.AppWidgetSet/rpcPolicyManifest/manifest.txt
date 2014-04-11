@@ -1,0 +1,2 @@
+# Module org.help4bet.help4bet.AppWidgetSet
+# RPC service class, partial path of RPC policy file
